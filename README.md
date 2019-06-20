@@ -8,6 +8,8 @@
 # Install dependencies server/client
 npm install
 
+npm install --prefix client
+
 # Serve on localhost:3000
 npm run dev
 ```
